@@ -2,8 +2,6 @@
 
 The group consists of the following members:
 
-- Alexander Troup (640478), atroup@student.unimelb.edu.au
-
 - David Liu (893542), tianjianl@student.unimelb.edu.au
 
 - Kevin Y. Yang (815565), yuy15@student.unimelb.edu.au
